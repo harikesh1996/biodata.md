@@ -12,7 +12,7 @@
 
 - 👨🏽‍💻 I’am currently working with accounts team at Noida Uttar pradesh..
 - 🌱 I’m currently exploring Linux. 
-- 🤔 My interests to make my carrer Devops
+- 🤔 My interests to make my career Devops
 - 💼 I’m pursuing a Bachelor's degree in BCA
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [chourasiyaharikesh@gmail.com](mailto:zamran.butt.1@gmail.com).
