@@ -31,8 +31,8 @@ A **Software Engineering Student** 🚀 from Lahore, Pakistan.
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1QNMwfAfDOiS3PEZr5Y0zavdJrFCmqk0m/view?usp=sharing) to get more info.
+- 📫 Email me at [chourasiyaharikesh@gmail.com](mailto:zamran.butt.1@gmail.com).
+- 📝 See my [Curriculum Vitae](https://drive.google.com/drive/u/0/folders/17yakpB2Ej-hd-NaeVTcqW1dzeeWZpxbY) to get more info.
 
 
 **Languages and Tools:**  
