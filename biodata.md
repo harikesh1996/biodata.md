@@ -11,9 +11,9 @@
 **About Me!**
 
 - 👨🏽‍💻 I’am currently working with accounts team at Noida Uttar pradesh..
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 🌱 I’m currently exploring Linux. 
+- 🤔 My interests to make my carrer Devops
+- 💼 I’m pursuing a Bachelor's degree in BCA
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [chourasiyaharikesh@gmail.com](mailto:zamran.butt.1@gmail.com).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/drive/u/0/folders/17yakpB2Ej-hd-NaeVTcqW1dzeeWZpxbY) to get more info.
