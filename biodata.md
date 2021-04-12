@@ -1,9 +1,9 @@
-### Hi there 👋, I'm [Harikesh](https://github.com/aman-atg) 👨‍💻
+### Hi there 👋, I'm [Harikesh](https://github.com/harikesh1996) 👨‍💻
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aman-atg/">
-  <img align="left" alt="Harikesh"s Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/feed//">
+  <img align="left" Linkedin" width="22px" src="https://www.linkedin.com/in/harikesh-harikesh-601213150"/>
 </a>
 
 <a href="https://t.me/amanatg0">
@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://twitter.com/aman_atg">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="harikesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="mailto:chourasiyaharikesh">
