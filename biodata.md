@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 title="hehehe"> Hey 👋, I'm Zamran!</h1>
+<h1 title="hehehe"> Hey 👋, I'm Harikesh!</h1>
 </div>
 <a href="https://www.linkedin.com/in/zamranxd/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
