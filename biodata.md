@@ -18,6 +18,8 @@
 - 📫 Email me at [chourasiyaharikesh@gmail.com](mailto:zamran.butt.1@gmail.com).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/drive/u/0/folders/17yakpB2Ej-hd-NaeVTcqW1dzeeWZpxbY) to get more info.
 
+Please find the below my passion link : https://github.com/harikesh1996/my.passion.md
+
 
 **Languages and Tools:**  
 
